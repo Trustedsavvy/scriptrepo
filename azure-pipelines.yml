@@ -9,7 +9,7 @@ pool:
   name: Default
 variables:
   rgname: 'yamlrg'
-  loc: "east us"
+  loc: "'east us'"
 
 steps:
 - task: AzurePowerShell@5
